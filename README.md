@@ -19,4 +19,4 @@ Features:
 
 Tech: single self-contained HTML file, vanilla JavaScript, no build step, no dependencies beyond Google Fonts.
 
-Usage: open `PathfinderLab.html` in a browser. Draw obstacles with the brush, place start and goal, and run one or more algorithms to compare their search behavior.
+Usage: open `PathfinderLab.html` in a browser or at my website, sid2010abc.github.io. Draw obstacles with the brush, place start and goal, and run one or more algorithms to compare their search behavior.
